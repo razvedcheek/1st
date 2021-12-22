@@ -1,7 +1,16 @@
 body {
  color: black;
- background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613641741_79-p-fon-dlya-prezentatsii-trava-108.jpg);
- background-position: bottom;
+ background-image: url(background.png);
+ background-position: top;
+}
+
+.inf {
+background-image: url(background2.png);
+}
+.goods{
+background-image: url(background3.png);
+}
+
 }
 h1 {
  text-align: center;
@@ -11,3 +20,7 @@ h1 {
  border: 2px solid black;
 }
 
+back_{
+position: absolute;
+bottom: 10px;
+}
