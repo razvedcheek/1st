@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4a1d183-bb48-4451-a01a-0eb66923b47f" name="Default Changelist" comment="basa dannih">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st inf.html" beforeDir="false" afterPath="$PROJECT_DIR$/1st inf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st main.html" beforeDir="false" afterPath="$PROJECT_DIR$/1st main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <list id="6cd2d960-d120-4f32-94d3-94cee8fa7dc8" name="Revert &quot;css v2.0&quot;" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb" />
     <list id="2b69f94f-ac35-47ad-92e1-eb1bdbe1c251" name="Revert &quot;css v2.0&quot;-2" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb">
-      <change beforePath="$PROJECT_DIR$/1st catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/1st catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st inf.html" beforeDir="false" afterPath="$PROJECT_DIR$/1st inf.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Astr.html" beforeDir="false" afterPath="$PROJECT_DIR$/Astr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Borch.html" beforeDir="false" afterPath="$PROJECT_DIR$/Borch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Krims.html" beforeDir="false" afterPath="$PROJECT_DIR$/Krims.html" afterDir="false" />
@@ -61,16 +59,6 @@
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="razvedcheek" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="1st" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/1st inf.html">
-      <ranges>
-        <range start1="19" end1="20" start2="19" end2="20" changelist="2b69f94f-ac35-47ad-92e1-eb1bdbe1c251" />
-        <range start1="21" end1="22" start2="21" end2="21" changelist="b4a1d183-bb48-4451-a01a-0eb66923b47f" />
-        <range start1="25" end1="27" start2="24" end2="26" changelist="2b69f94f-ac35-47ad-92e1-eb1bdbe1c251" />
-        <range start1="32" end1="33" start2="31" end2="32" changelist="2b69f94f-ac35-47ad-92e1-eb1bdbe1c251" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1y0lAleYGGkkGVXsu1LZ7jLpKcw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -244,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640365960758</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="fixing">
+      <created>1640372317256</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1640372317256</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fixing">
+      <created>1640372322108</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1640372322108</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +282,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -323,6 +325,7 @@
     <MESSAGE value="?" />
     <MESSAGE value="." />
     <MESSAGE value="v" />
-    <option name="LAST_COMMIT_MESSAGE" value="v" />
+    <MESSAGE value="fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing" />
   </component>
 </project>

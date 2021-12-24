@@ -23,7 +23,7 @@ h1 {
 back_{
 position: absolute;
 bottom: 10px;
-right: 10px;
+left: 10px;
 }
 
 login_bt{
@@ -50,4 +50,8 @@ display: inline-block;
 
 a{
 text-decoration: none;
+}
+
+#1{
+position:relative;
 }
