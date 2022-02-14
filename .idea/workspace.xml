@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4a1d183-bb48-4451-a01a-0eb66923b47f" name="Default Changelist" comment="basa dannih">
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/arbuz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/background2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/background3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/grass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Astr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Borch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Krims.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/catalogpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/good.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/infopage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/loginpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mainpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/zaglushka.html" beforeDir="false" />
     </list>
     <list id="6cd2d960-d120-4f32-94d3-94cee8fa7dc8" name="Revert &quot;css v2.0&quot;" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb" />
     <list id="2b69f94f-ac35-47ad-92e1-eb1bdbe1c251" name="Revert &quot;css v2.0&quot;-2" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb" />
@@ -14,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -79,7 +97,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.app (1)">
-    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learnHTML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\Desktop\learnHTML\app\app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\Desktop\learnHTML\app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\Desktop\learnHTML\app\app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644854411170</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Procfule">
+      <created>1644854615944</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1644854615944</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

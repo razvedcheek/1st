@@ -17,6 +17,11 @@ from datetime import datetime, timedelta
 app = Flask(__name__)
 
 
+@app.errorhandler(404)
+def page_not_found(_):
+    return render_template("zaglushka.html"), 404
+
+
 @app.route('/')
 def mainpage():
     return render_template('mainpage.html')
