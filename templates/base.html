@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Главная</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='/style/style.css') }}">
+</head>
+<header>
+<h3>
+        <a href="/mainpage.html">Главная</a>&ensp;
+        <a href="/catalogpage.html">Каталог</a>&ensp;
+         <a href="/infopage.html">О нас</a>
+        <a href="/loginpage.html" class="login_bt">Войти</a>
+
+</h3>
+</header>
+<br>
+
+    {% block content %} {% endblock %}
+<br>
+<footer>
+<h3>
+© Наш интернет-магазин  email@mail.ru
+</h3>
+</footer>
+</html>

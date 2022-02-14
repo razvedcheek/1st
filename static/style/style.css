@@ -1,14 +1,34 @@
 body {
  color: black;
- background-image: url(background.png);
+ background-image: url(/static/img/background.png);
  background-position: top;
 }
 
+header{
+position: absolute;
+top: 0;
+width:98%;
+height:5%;
+justify-content: center;
+
+}
+
+footer{
+width:100%;
+height:5%;
+justify-content: center;
+position: absolute;
+bottom: 0;
+
+
+
+}
+
 .inf {
-background-image: url(background2.png);
+ background-image: url(/static/img/background2.png);
 }
 .goods{
-background-image: url(background3.png);
+ background-image: url(/static/img/background3.png);
 }
 
 }
@@ -20,16 +40,8 @@ h1 {
  border: 2px solid black;
 }
 
-back_{
-position: absolute;
-bottom: 10px;
-left: 10px;
-}
-
-login_bt{
-position: absolute;
-top: 2px;
-right: 10px;
+.login_bt{
+Float: right;
 }
 
 div{
