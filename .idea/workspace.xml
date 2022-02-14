@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4a1d183-bb48-4451-a01a-0eb66923b47f" name="Default Changelist" comment="basa dannih">
-      <change afterPath="$PROJECT_DIR$/app/handlers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainBD.db-journal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainBD.sqbpro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="b4a1d183-bb48-4451-a01a-0eb66923b47f" name="Default Changelist" comment="basa dannih" />
     <list id="6cd2d960-d120-4f32-94d3-94cee8fa7dc8" name="Revert &quot;css v2.0&quot;" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb" />
     <list id="2b69f94f-ac35-47ad-92e1-eb1bdbe1c251" name="Revert &quot;css v2.0&quot;-2" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb" />
     <option name="SHOW_DIALOG" value="false" />
@@ -359,7 +353,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644855317944</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="heroku2">
+      <created>1644855997986</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1644855997986</updated>
+    </task>
+    <task id="LOCAL-00030" summary="heroku2">
+      <created>1644856099490</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1644856099490</updated>
+    </task>
+    <task id="LOCAL-00031" summary="heroku2">
+      <created>1644856309866</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1644856309866</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -445,6 +460,7 @@
     <MESSAGE value="fixing background" />
     <MESSAGE value="Procfule" />
     <MESSAGE value="heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="heroku" />
+    <MESSAGE value="heroku2" />
+    <option name="LAST_COMMIT_MESSAGE" value="heroku2" />
   </component>
 </project>
