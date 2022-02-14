@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4a1d183-bb48-4451-a01a-0eb66923b47f" name="Default Changelist" comment="basa dannih">
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/good.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st catalog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st inf.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Astr.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Borch.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Krims.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arbuz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/background2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/background3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grass.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zaglushka.html" beforeDir="false" />
-    </list>
+    <list default="true" id="b4a1d183-bb48-4451-a01a-0eb66923b47f" name="Default Changelist" comment="basa dannih" />
     <list id="6cd2d960-d120-4f32-94d3-94cee8fa7dc8" name="Revert &quot;css v2.0&quot;" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb" />
     <list id="2b69f94f-ac35-47ad-92e1-eb1bdbe1c251" name="Revert &quot;css v2.0&quot;-2" comment="Revert &quot;css v2.0&quot;&#10;&#10;This reverts commit 6b3917eb" />
     <option name="SHOW_DIALOG" value="false" />
@@ -335,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643572234193</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="adding flask">
+      <created>1644853385814</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1644853385814</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,6 +406,7 @@
     <MESSAGE value="fixing" />
     <MESSAGE value="+ zagluska" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="adding flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding flask" />
   </component>
 </project>
