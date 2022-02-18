@@ -1,7 +1,9 @@
 from flask import Flask
 from flask import render_template
 
+
 app = Flask(__name__)
+
 
 @app.errorhandler(404)
 def page_not_found(_):
@@ -16,6 +18,11 @@ def mainpage():
 @app.route('/mainpage.html')
 def mainpage1():
     return render_template('mainpage.html')
+
+
+@app.route('/regpage.html')
+def regpage():
+    return render_template('regpage.html')
 
 
 @app.route('/catalogpage.html')
