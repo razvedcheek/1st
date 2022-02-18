@@ -60,6 +60,16 @@ display: inline-block;
   color: white;
 }
 
+.rbtn{
+display: inline-block;
+  vertical-align: top;
+  border: 1px solid black;
+  position:relative;
+    left:14%;
+  background-color: black;
+  color: white;
+}
+
 a{
 text-decoration: none;
 }
